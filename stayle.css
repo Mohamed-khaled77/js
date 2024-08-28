@@ -1,0 +1,11 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.fan1:hover {
+  rotate: 360deg;
+  transition: 1s;
+  animation: infinite;
+  color: rgb(7, 175, 175);
+}
